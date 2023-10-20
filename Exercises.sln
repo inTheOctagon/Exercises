@@ -5,6 +5,16 @@ VisualStudioVersion = 17.7.34031.279
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ANK14.Utku.ProgressBar", "ANK14.Utku.ProgressBar\ANK14.Utku.ProgressBar.csproj", "{A7DF8279-7F57-4F18-8986-DABBBB0925F7}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ANK14.Utku.CustomProgressBar", "ANK14.Utku.CustomProgressBar\ANK14.Utku.CustomProgressBar.csproj", "{54190BA6-7F47-4308-BF16-21ADCD6B2F8C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ANK14.Utku.DrawingBox", "ANK14.Utku.DrawingBox\ANK14.Utku.DrawingBox.csproj", "{C09FC2C1-01AE-44F6-AAC8-C28BAAEC875E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ANK14.Utku.DrawingBox.HeightWidth", "ANK14.Utku.DrawingBox.HeightWidth\ANK14.Utku.DrawingBox.HeightWidth.csproj", "{E479E0D7-8BA2-4C64-9F3D-A28848D22088}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ANK14.Utku.DrawingTable", "ANK14.Utku.DrawingTable\ANK14.Utku.DrawingTable.csproj", "{28043448-C4EE-4F0A-BEF7-441A8BE45FF4}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ANK14.Utku.DrawingCustomTable", "ANK14.Utku.DrawingCustomTable\ANK14.Utku.DrawingCustomTable.csproj", "{188CAD6D-1895-4FEA-8233-7FDC9E54FDC1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +25,26 @@ Global
 		{A7DF8279-7F57-4F18-8986-DABBBB0925F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A7DF8279-7F57-4F18-8986-DABBBB0925F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A7DF8279-7F57-4F18-8986-DABBBB0925F7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{54190BA6-7F47-4308-BF16-21ADCD6B2F8C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54190BA6-7F47-4308-BF16-21ADCD6B2F8C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{54190BA6-7F47-4308-BF16-21ADCD6B2F8C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{54190BA6-7F47-4308-BF16-21ADCD6B2F8C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C09FC2C1-01AE-44F6-AAC8-C28BAAEC875E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C09FC2C1-01AE-44F6-AAC8-C28BAAEC875E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C09FC2C1-01AE-44F6-AAC8-C28BAAEC875E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C09FC2C1-01AE-44F6-AAC8-C28BAAEC875E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E479E0D7-8BA2-4C64-9F3D-A28848D22088}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E479E0D7-8BA2-4C64-9F3D-A28848D22088}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E479E0D7-8BA2-4C64-9F3D-A28848D22088}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E479E0D7-8BA2-4C64-9F3D-A28848D22088}.Release|Any CPU.Build.0 = Release|Any CPU
+		{28043448-C4EE-4F0A-BEF7-441A8BE45FF4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28043448-C4EE-4F0A-BEF7-441A8BE45FF4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28043448-C4EE-4F0A-BEF7-441A8BE45FF4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28043448-C4EE-4F0A-BEF7-441A8BE45FF4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{188CAD6D-1895-4FEA-8233-7FDC9E54FDC1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{188CAD6D-1895-4FEA-8233-7FDC9E54FDC1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{188CAD6D-1895-4FEA-8233-7FDC9E54FDC1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{188CAD6D-1895-4FEA-8233-7FDC9E54FDC1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
